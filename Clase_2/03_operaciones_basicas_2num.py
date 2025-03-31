@@ -1,4 +1,5 @@
-# 3 Programa que procesa la suma, resta, multiplicacion y division con dos num.
+# 3 Programa que procesa la suma, resta, multiplicacion y division 
+# con dos numeros
 
 oper1 = 2
 
