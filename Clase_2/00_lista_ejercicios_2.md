@@ -1,2 +1,2 @@
-# Lista de ejercicios de la clase 2 en Python
+# Lista de ejercicios de la clase 2 en Python.
 
