@@ -1,10 +1,17 @@
-# Introduccion_Programacion_I
+# Introducción a la Programación I
 ## Anotaciones y ejercicios resueltos
-De Calizaya Gerardo
 
-* Clase 1: Introduccion, Composicion del CPU (Unidad de Control, Unidad Aritmetico Logica, Memoria Central y Buses), Presentacion de Algoritmo y sus fases, Breve historia del desarrollo de la computadora.
+**Autor:** Calizaya Gerardo
+
+**Comisión:** B1
+
+### Contenido:
+- **Clase 1:** Introducción, composición del CPU (Unidad de Control, Unidad Aritmético-Lógica, Memoria Central y Buses), presentación de algoritmo y sus fases, breve historia del desarrollo de la computadora.
   
-* Clase 2: Capas de Abstraccion, Instalacion de Python, Sintaxis y Manipulacion de Datos, Guia de ejercicios 2.
-* Clase 3:
-* Clase 4:
-* Clase 5:
+- **Clase 2:** Capas de Abstracción, instalación de Python, sintaxis y manipulación de datos, guía de ejercicios 2.
+
+- **Clase 3:**
+
+- **Clase 4:**
+
+- **Clase 5:**
