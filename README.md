@@ -1,5 +1,6 @@
 # Introduccion_Programacion_I
-Anotaciones y ejercicios resueltos
+## Anotaciones y ejercicios resueltos
+De Calizaya Gerardo
 
 * Clase 1: Introduccion, Composicion del CPU (Unidad de Control, Unidad Aritmetico Logica, Memoria Central y Buses), Presentacion de Algoritmo y sus fases, Breve historia del desarrollo de la computadora.
   
