@@ -1,4 +1,4 @@
-# 9 Programa Circunferencia, calcula la circun. de un circulo dado su radio.
+# 9 Programa Circunferencia, calcula la circunferencia de un circulo dado su radio.
 
 
 PI = 3.14 #Constante
